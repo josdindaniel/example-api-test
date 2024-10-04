@@ -10,7 +10,7 @@ const PORT = 3000;
 // Define a GET endpoint
 app.get("/", (req, res) => {
   // Send a response with text and emoji when the endpoint is accessed
-  res.send("My REST API V1 🚀");
+  res.send("My REST API V2 - Josdin 🚀");
 });
 
 // Start the server and listen on the specified port
